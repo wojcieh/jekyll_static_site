@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jekyll static site on github with Windows os
-email: itTeachepl@gmail.com
+title: Jekyll i GitHub pages
+email: itteacherpl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  How to make static site with Jekyll on github.io on Windows operating system
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "jekyll_static_site" # the subpath of your site, e.g. /blog
-url: "http://wojcieh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wojcieh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wojcieh
 github_username:  wojcieh
-repository: wojcieh/jekyll_static_site
-# Build settings
-remote_theme: pages-themes/hacker@v0.2.0
 
+# Build settings
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
