@@ -4,6 +4,10 @@ layout: page
 category: tutorial
 
 ---
+Windows nie jest oficlajnie wspiraną platformą. Do swoje prawidłowego działania potrzebuje:
+- Ruby
+- RubyGems
+- GCC i Make
 
 
 Instalacja pod Windowsem nie jest przyjemna.

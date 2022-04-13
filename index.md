@@ -4,15 +4,24 @@ layout: default
 ---
 # Strona w budowie
 ## Tytułem wstępu
-Uwielbiam wordpressa. W prosty sposób umożlwia postawienia fajnej strony internetowej. Nawet proste strony "wizytówkowe" stawiałem na tym cmsie.
+Uwielbiam [worpressa](https://wordpress.com/). W prosty sposób umożlwia postawienia fajnej strony internetowej. Nawet proste strony "wizytówkowe" stawiałem na tym cmsie.
+
 Statyczna strona html ma swoje atuty. Szybko się otwiera. Nie jest podatna na ataki.
 
 Jekyll umożliwia nam tworzenie takich stron, jednocześnie nie zmuszając nasz do rezygnacji z atutów stron dynamicznych.
 
-### Czego się można nauczyć:
+### zalety: 
+
+### wady:
+- brak dynamicznych elementów na stronie takich jak liczniki odwiedziń, księgi gości (zapachniało mi trochę początkami mojej przygody z HTML)
+- brak dostępu do wyświetlania wyników z baz danych
+
+
+### Czego nauczyłem się podczas tworzenia tej strony:
 - jekyll
 - git
 - md
+- Visual Studio Code
   
 ### Źródła
 - [https://jekyllrb.com/](https://jekyllrb.com/)
